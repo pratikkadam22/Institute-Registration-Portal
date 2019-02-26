@@ -1,1 +1,2 @@
 # Institute-Registration-Portal
+##### A website developed for the students to register and create their accounts for a coaching institute and also helped the faculties to keep a track of student profiles
